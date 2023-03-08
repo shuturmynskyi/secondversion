@@ -1,6 +1,7 @@
 package Hmw_Generics;
 
 //just new comment
+//another one
 
 import java.util.Collection;
 public class Box <T, B, A> {
